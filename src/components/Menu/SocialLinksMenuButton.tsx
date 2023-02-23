@@ -15,32 +15,32 @@ import { MenuButton } from './MenuButton'
 const socialLinks = [
   {
     name: 'github',
-    url: 'https://github.com/diego3g',
+    url: 'https://github.com/matsnascimento',
     icon: <Github size={14} />
   },
   {
     name: 'instagram',
-    url: 'https://instagram.com/dieegosf',
+    url: 'https://instagram.com/matsnascimento',
     icon: <Instagram size={14} />
   },
   {
     name: 'linkedin',
-    url: 'https://www.linkedin.com/in/diego-schell-fernandes/',
+    url: 'https://www.linkedin.com/in/matsnascimento/',
     icon: <Linkedin size={14} />
   },
   {
-    name: 'rocketseat',
-    url: 'https://www.rocketseat.com.br/',
+    name: 'ligadoemfinancas',
+    url: 'https://www.ligadoemfinancas.com.br/',
     icon: <Rocket size={14} />
   },
   {
     name: 'twitter',
-    url: 'https://twitter.com/dieegosf',
+    url: 'https://twitter.com/matsnascimento7',
     icon: <Twitter size={14} />
   },
   {
     name: 'youtube',
-    url: 'https://www.youtube.com/@rocketseat',
+    url: 'https://www.youtube.com/@matsnascimento',
     icon: <Youtube size={14} />
   },
 ]

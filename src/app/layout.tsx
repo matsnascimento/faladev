@@ -11,8 +11,8 @@ import { Footer } from '@/components/Footer'
 
 export const metadata = {
   title: {
-    default: 'Diego Fernandes',
-    template: '%s | Diego Fernandes'
+    default: 'Matheus Nascimento',
+    template: '%s | Matheus Nascimento'
   },
   robots: {
     index: true,
@@ -25,7 +25,7 @@ export default function RootLayout({
   children,
 }: {
   children: React.ReactNode
-}) {
+}): any {
   return (
     <html lang="en" className={inter.className}>
       <head />
